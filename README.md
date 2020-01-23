@@ -1,3 +1,3 @@
 # TicTacToe
 
-A simple Tic Tac program made in Java
+A simple Tic Tac Toe program made in Java
